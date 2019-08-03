@@ -11,6 +11,7 @@ import org.springframework.web.filter.CorsFilter;
  *创建时间：2018/10/18 10:20
  *描述：主要用来解决VUE的跨域调用问题（注意要让该模块被依赖才行）
  */
+//1111
 @Configuration
 public class CrosConfig {
 
